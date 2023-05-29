@@ -1,5 +1,11 @@
 header {
-	background color: #FF0000;
+	background-color: #FF0000;
 	height: 70px;
 	width: 100%;
+	background-color: white;
+	position: relative;
+	flex: none;
+	border-bottom: 1px solid #CCCCCC;
+	background-repeat: no-repeat;
+	background-image: url("../images/logo.png");
 }
